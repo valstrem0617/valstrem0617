@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a highly skilled and passionate React/Redux and Node/Express professional seasoned with over 5 years of extensive experience in Single Page Application development using React
 
 <!--
 **valstrem0617/valstrem0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
